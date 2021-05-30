@@ -2,8 +2,9 @@
 
 ## To run webpage locally:
 
-- set 'MYSQL_USER', 'MYSQL_PASSWORD', 'MYSQL_DB' paremeters in homework/app/\__init__.py file to match local MySQL server.
-- run homework/homework.py using flask
+- Set 'MYSQL_USER', 'MYSQL_PASSWORD', 'MYSQL_DB' paremeters in homework/app/\__init__.py file to match local MySQL server.
+- Run homework/homework.py using flask
+- Open webpage on localhost:5000 address 
 
 ## Used packages/libraries:
 
