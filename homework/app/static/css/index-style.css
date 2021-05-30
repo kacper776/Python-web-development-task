@@ -1,0 +1,13 @@
+.right-panel-table{
+    border-collapse: separate;
+    border-spacing:0 25px;
+}
+.number-text{
+    width: 13%;
+}
+.city-text{
+    width: 72%;
+}
+.count-text{
+    width: 15%;
+}
