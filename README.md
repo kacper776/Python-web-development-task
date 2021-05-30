@@ -4,6 +4,8 @@
 
 - Set 'MYSQL_USER', 'MYSQL_PASSWORD', 'MYSQL_DB' paremeters in homework/app/\__init__.py file to match local MySQL server.
 - Run homework/homework.py using flask.
+  - >export FLASK_APP=homework.py
+  - >flask run
 - Open webpage on localhost:5000 address.
 
 ## Used packages/libraries:
