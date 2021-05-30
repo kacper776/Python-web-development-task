@@ -11,3 +11,4 @@
 - Python 3.9.5
 - flask 1.1.2
 - flask-mysqldb 0.2.0
+- mysql 20.04.1
